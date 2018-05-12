@@ -1,0 +1,28 @@
+_repo: Civil-War-and-Reconstruction-in-Alabama_41680
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fleming, Walter L. (Walter Lynwood)
+    alias: Fleming, Walter Lynwood
+    birthdate: 1874
+    deathdate: 1932
+    gutenberg_agent_id: '1066'
+    url: http://www.gutenberg.org/2009/agents/1066
+description: ''
+gutenberg_issued: '2012-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41680'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Reconstruction (U.S. history, 1865-1877) -- Alabama'
+- !lcc 'F296'
+- !lcsh 'Alabama -- History -- Civil War, 1861-1865'
+title: Civil War and Reconstruction in Alabama
+url: http://www.gutenberg.org/ebooks/41680
