@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '1066'
     url: http://www.gutenberg.org/2009/agents/1066
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41680#Civil-War-and-Reconstruction-in-Alabama
 gutenberg_issued: '2012-12-21'
 gutenberg_type: Text
 identifiers:
